@@ -1,3 +1,1 @@
 Line 1: Initial content
-Line 2: A's change
-Line 2: B's change
